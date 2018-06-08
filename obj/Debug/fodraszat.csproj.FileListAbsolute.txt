@@ -1,0 +1,49 @@
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.exe.config
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.exe
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.pdb
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.bejelentkezes.resources
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.adatkezeles.resources
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.Properties.Resources.resources
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.felhasznalo_adat_modositas.resources
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.regisztracio.resources
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.tipus_kezeles.resources
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.csproj.GenerateResource.Cache
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.exe
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.pdb
+D:\Geri\Suliba\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.csprojResolveAssemblyReference.cache
+D:\Geri\002Technikum\001Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.exe.config
+D:\Geri\002Technikum\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.exe
+D:\Geri\002Technikum\001Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.pdb
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.exe.config
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.exe
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.pdb
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.exe
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.pdb
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.csprojResolveAssemblyReference.cache
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.bejelentkezes.resources
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.adatkezeles.resources
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.Properties.Resources.resources
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.felhasznalo_adat_modositas.resources
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.regisztracio.resources
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.tipus_kezeles.resources
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.csproj.GenerateResource.Cache
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.szemelyre_szabas.resources
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.statisztika.resources
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.keszitok.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.exe.config
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.exe
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.pdb
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.exe
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\bin\Debug\fodraszat.pdb
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.csprojResolveAssemblyReference.cache
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.bejelentkezes.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.adatkezeles.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.keszitok.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.Properties.Resources.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.felhasznalo_adat_modositas.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.regisztracio.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.statisztika.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.szemelyre_szabas.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.tipus_kezeles.resources
+D:\Geri\000Fordász program c#, IO nélkül\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.csproj.GenerateResource.Cache
+D:\Geri\000Fordász program c#\Fodrászat\fodraszat\fodraszat\obj\Debug\fodraszat.admin.resources
